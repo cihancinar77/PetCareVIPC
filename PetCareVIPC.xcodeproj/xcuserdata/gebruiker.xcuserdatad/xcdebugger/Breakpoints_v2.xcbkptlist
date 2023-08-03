@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E6E9A23-A204-443D-9BB0-1F4E38486543"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0AFD2CB-13ED-4CD7-9B39-7CAFBCFC9EF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetCareVIPC/[Flow] - Dashboard/[Flow] - Profile/Profile/View/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E7E2EA1-45B3-4ECE-B82D-4E620BD95CDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetCareVIPC/[Flow] - Dashboard/[Flow] - Profile/Profile/Interactor/ProfileInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "didSelectCell(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7A06E3B-CD7A-4623-B62E-E96A56C2C0DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetCareVIPC/[Flow] - Dashboard/[Flow] - Profile/Profile/Interactor/ProfileInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "didSelectCell(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7A06E3B-CD7A-4623-B62E-E96A56C2C0DE - 29a4d7aa22f4b0a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetCareVIPC.ProfileInteractor.viewDidLoad() -&gt; ()"
+                  moduleName = "PetCareVIPC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gebruiker/Downloads/saglam16jul2023%203/PetCareVIPC/%5BFlow%5D%20-%20Dashboard/%5BFlow%5D%20-%20Profile/Profile/Interactor/ProfileInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "F7A06E3B-CD7A-4623-B62E-E96A56C2C0DE - 181c5233d6763253"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;PetCareVIPC.ProfileTableViewModel&gt;) -&gt; () in PetCareVIPC.ProfileInteractor.viewDidLoad() -&gt; ()"
+                  moduleName = "PetCareVIPC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gebruiker/Downloads/saglam16jul2023%203/PetCareVIPC/%5BFlow%5D%20-%20Dashboard/%5BFlow%5D%20-%20Profile/Profile/Interactor/ProfileInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

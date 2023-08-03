@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "image": "pawprint",
+        "title": "My pets"
+    },
+    {
+        "id": "02",
+        "image": "heart",
+        "title": "My favourites"
+    },
+    {
+        "id": "03",
+        "image": "bag.badge.plus",
+        "title": "Add pet service"
+    },
+    {
+        "id": "04",
+        "image": "megaphone",
+        "title": "Invite friends"
+    },
+    {
+        "id": "05",
+        "image": "questionmark.circle",
+        "title": "Help"
+    },
+    {
+        "id": "06",
+        "image": "gearshape",
+        "title": "Settings"
+    }
+]

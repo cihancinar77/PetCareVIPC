@@ -1,0 +1,17 @@
+[
+    {
+        "image": "tutorials1",
+        "headline": "Welcome to Pet Care",
+        "body": "All types of services for your pet in one place, instantly searchable."
+    },
+    {
+        "image": "tutorials2",
+        "headline": "Proven experts",
+        "body": "We interview every specialist before they get to work."
+    },
+    {
+        "image": "tutorials3",
+        "headline": "Reliable reviews",
+        "body": "A review can be left only by a user who used the service."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "01",
+        "image": "veterinaryLogo",
+        "headline": "Veterinary"
+    },
+    {
+        "id": "02",
+        "image": "groomingLogo",
+        "headline": "Grooming"
+    },
+    {
+        "id": "03",
+        "image": "boardingLogo",
+        "headline": "Pet boarding"
+    },
+    {
+        "id": "04",
+        "image": "adoptionLogo",
+        "headline": "Adoption"
+    },
+    {
+        "id": "05",
+        "image": "dogWalkingLogo",
+        "headline": "Dog walking"
+    },
+    {
+        "id": "06",
+        "image": "trainingLogo",
+        "headline": "Training"
+    },
+    {
+        "id": "07",
+        "image": "taxiLogo",
+        "headline": "Pet taxi"
+    },
+    {
+        "id": "08",
+        "image": "dateLogo",
+        "headline": "Pet date"
+    },
+    {
+        "id": "09",
+        "image": "otherLogo",
+        "headline": "Other"
+    }
+]

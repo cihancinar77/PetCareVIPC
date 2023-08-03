@@ -1,0 +1,6 @@
+framework module Pods_PetCareVIPC {
+  umbrella header "Pods-PetCareVIPC-umbrella.h"
+
+  export *
+  module * { export * }
+}

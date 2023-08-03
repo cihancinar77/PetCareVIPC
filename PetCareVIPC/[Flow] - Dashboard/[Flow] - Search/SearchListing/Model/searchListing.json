@@ -1,0 +1,80 @@
+{
+    "popularSpecialities": [ "Cat Specialist", "Dog Specialist", "Ornithologist", "Dentist", "Surgeon" ],
+    "allSpecialities": [ "Veterinarian", "Therapist", "Anesthetist", "Gastroenterologist", "Infectious disease", "Cardiologist", "Neurologist", "Oncologist", "Ornithologist", "Orthopedist", "Ophthalmologist", "Radiologist", "Dentist", "Surgeon", "Traumatologist", "Endocrinologist", "Veterinarian", "Therapist", "Anesthetist", "Gastroenterologist", "Infectious disease", "Cardiologist", "Neurologist" ],
+    "veterinaries": [
+        {
+            "image": "https://i.ibb.co/QCnZmbt/Photo.jpg",
+            "name": "Vasilenko Oksana",
+            "title": "Veterinary Dentist",
+            "rating": 5.0,
+            "numberOfReviews": 125,
+            "distance": 1.5,
+            "cost": 20
+        },
+        {
+            "image": "https://www.allanimalclinicleighton.com/files/leighton_vet/dental.jpg",
+            "name": "Avramenko Vladimir",
+            "title": "Veterinary Dentist",
+            "rating": 5.0,
+            "numberOfReviews": 1462,
+            "distance": 465.5,
+            "cost": 170
+        },
+        {
+            "image": "https://i.ibb.co/QCnZmbt/Photo.jpg",
+            "name": "Alekseenko Vasily",
+            "title": "Veterinary Dentist",
+            "rating": 5.0,
+            "numberOfReviews": 125,
+            "distance": 1.5,
+            "cost": 20
+        },
+        {
+            "image": "https://www.trinityhealth.org/wp-content/uploads/2020/07/Kevin-Moore-Background.jpg",
+            "name": "Lauren Sell",
+            "title": "Veterinary Dentist",
+            "rating": 5.0,
+            "numberOfReviews": 1462,
+            "distance": 465.5,
+            "cost": 170
+        }
+    ],
+    "babers": [
+        {
+            "image": "https://e-cdn-images.dzcdn.net/images/artist/6bde183cdc7155bd6a4596bdd6121113/256x256-000000-80-0-0.jpg",
+            "name": "Jimmy Pager",
+            "title": "Pet Barber",
+            "rating": 5.0,
+            "numberOfReviews": 125,
+            "distance": 1.5,
+            "cost": 20
+        },
+        {
+            "image": "https://www.allanimalclinicleighton.com/files/leighton_vet/dental.jpg",
+            "name": "Paulo Gilberto",
+            "title": "Pet Barber",
+            "rating": 5.0,
+            "numberOfReviews": 1462,
+            "distance": 465.5,
+            "cost": 170
+        },
+        {
+            "image": "https://i.ibb.co/QCnZmbt/Photo.jpg",
+            "name": "John Peter Pan",
+            "title": "Pet Barber",
+            "rating": 5.0,
+            "numberOfReviews": 125,
+            "distance": 1.5,
+            "cost": 20
+        },
+        {
+            "image": "https://www.trinityhealth.org/wp-content/uploads/2020/07/Kevin-Moore-Background.jpg",
+            "name": "Lauren Sell",
+            "title": "Veterinary Dentist",
+            "rating": 5.0,
+            "numberOfReviews": 1462,
+            "distance": 465.5,
+            "cost": 170
+        }
+    ]
+}
